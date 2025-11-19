@@ -20,7 +20,7 @@ def bump_version(old_version, bump_type):
         v[1] += 1
         v[2] = 0
     elif bump_type == 'hotfix':
-        # increase patch . ttt
+        # increase patch . ccc
         v[2] += 1
     else:
         raise ValueError("bump_type must be 'feature' or 'hotfix'")
