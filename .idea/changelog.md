@@ -1,3 +1,8 @@
+## 0.39.0 — branch: main
+
+4eb7f2e - Merge pull request #7 from VIMIDIN/feature/test-pipeline (VIMIDIN)
+059aff9 - lll (vadim)
+
 ## 0.38.0 — branch: main
 
 9a042d8 - Merge pull request #6 from VIMIDIN/feature/test-pipeline (VIMIDIN)
