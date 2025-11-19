@@ -20,4 +20,4 @@ docker run -p 8000:8000 yourname/pipeline-app:latest
 - `TELEGRAM_CHAT_ID` - ID чата для уведомлений
 
 ## 4. Ссылка на телеграмм группу:
-https://t.me/+DlUPFBCk6PtiYzZi
+https://t.me/tbapipe 
