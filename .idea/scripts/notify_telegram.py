@@ -47,7 +47,7 @@ def send_telegram_document(bot_token, chat_id, document_path, caption=""):
     return response.json()
 
 def main():
-    # Получаем переменные окружения
+    # Получаем переменные окруженияии
     bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
     chat_id = os.getenv('TELEGRAM_CHAT_ID')
     new_version = os.getenv('NEW_VERSION', 'unknown')
