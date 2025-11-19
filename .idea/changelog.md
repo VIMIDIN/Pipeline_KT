@@ -1,3 +1,8 @@
+## 0.37.0 — branch: main
+
+2b67a24 - Merge pull request #5 from VIMIDIN/feature/test-pipeline (VIMIDIN)
+5fd171e - uuu (vadim)
+
 ## 0.36.0 — branch: main
 
 cff500b - Merge pull request #4 from VIMIDIN/feature/Check (VIMIDIN)
