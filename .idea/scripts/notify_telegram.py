@@ -58,7 +58,7 @@ def main():
         print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set")
         return
 
-    # Получаем Git информацию
+    # Получаем Git информациюlll;
     commit_hash, author = get_git_info()
 
     # Текущая дата и время
