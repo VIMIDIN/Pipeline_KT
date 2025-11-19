@@ -1,3 +1,14 @@
+## 0.38.0 — branch: main
+
+9a042d8 - Merge pull request #6 from VIMIDIN/feature/test-pipeline (VIMIDIN)
+de6fb29 - lll (vadim)
+1eaa57b - Merge remote-tracking branch 'origin/feature/test-pipeline' into feature/test-pipeline (vadim)
+d49ae4f - lll (vadim)
+c283d08 - uuu (vadim)
+1a8c61e - uuu (vadim)
+63f6ad6 - Update README.md (VIMIDIN)
+114cb8e - uuu (vadim)
+
 ## 0.37.0 — branch: main
 
 2b67a24 - Merge pull request #5 from VIMIDIN/feature/test-pipeline (VIMIDIN)
