@@ -12,7 +12,7 @@ def version_to_str(v):
 
 def bump_version(old_version, bump_type):
     v = parse_version(old_version)
-    # Ensure at least 3 components
+    # Ensure at least 3 components ll
     while len(v) < 3:
         v.append(0)
     if bump_type == 'feature':
