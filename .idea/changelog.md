@@ -1,3 +1,8 @@
+## 0.41.0 — branch: main
+
+2eb5db3 - Merge remote-tracking branch 'origin/main' (vadim)
+0b6ecc2 - hotfix: обновлены тесты (vadim)
+
 ## 0.40.0 — branch: main
 
 b40cc31 - Изменения в ci (vadim)
