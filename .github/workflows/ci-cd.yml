@@ -181,7 +181,12 @@
         - name: 📥 Checkout code
           uses: actions/checkout@v4
           with:
-            fetch-depth: 0  # Добавьте эту строку для получения полной Git истории
+            fetch-depth: 0
+            ef: ${{ github.ref }}
+
+        - name: Pull latest changes
+            run: |
+              git pull origin ${{github.ref_name}}
 
         - name: 🐍 Setup Python
           uses: actions/setup-python@v5
@@ -211,6 +216,13 @@
       steps:
         - name: 📥 Checkout code
           uses: actions/checkout@v4
+          with:
+            fetch-depth: 0
+            ref: ${{ github.ref }}
+
+        - name: Pull latest changes
+          run: |
+            git pull origin ${{github.ref_name}}
 
         - name: 🏷️ Create GitHub Release
           uses: softprops/action-gh-release@v2
