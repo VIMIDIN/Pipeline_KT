@@ -1,3 +1,7 @@
+## 0.42.1 — branch: main
+
+b61c69f - hotfix прпрпрп (vadim)
+
 ## 0.42.0 — branch: main
 
 e33cfc0 - feature : обновлены тесты! (vadim)
