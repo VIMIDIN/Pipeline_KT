@@ -1,3 +1,7 @@
+## 0.41.1 — branch: main
+
+e14171f - hotfix : обновлены тесты! (vadim)
+
 ## 0.41.0 — branch: main
 
 2eb5db3 - Merge remote-tracking branch 'origin/main' (vadim)
