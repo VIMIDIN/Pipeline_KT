@@ -1,3 +1,8 @@
+## 0.40.0 — branch: main
+
+b40cc31 - Изменения в ci (vadim)
+1857026 - Изменения в ci (vadim)
+
 ## 0.39.0 — branch: main
 
 4eb7f2e - Merge pull request #7 from VIMIDIN/feature/test-pipeline (VIMIDIN)
