@@ -1,3 +1,7 @@
+## 1.1.0 — branch: main
+
+54c8cde - Реализована новая версия прилоджения (vadim)
+
 ## 0.42.1 — branch: main
 
 b61c69f - hotfix прпрпрп (vadim)
