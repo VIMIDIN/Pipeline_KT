@@ -1,3 +1,7 @@
+## 1.5.1 — branch: main
+
+4449fbf - hotfix мфв (vadim)
+
 ## 1.5.0 — branch: main
 
 7eff518 - feature (vadim)
