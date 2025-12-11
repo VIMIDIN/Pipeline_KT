@@ -1,3 +1,7 @@
+## 1.2.0 — branch: main
+
+8bc53d8 - feature (vadim)
+
 ## 1.1.0 — branch: main
 
 54c8cde - Реализована новая версия прилоджения (vadim)
