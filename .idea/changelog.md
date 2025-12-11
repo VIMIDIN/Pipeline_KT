@@ -1,3 +1,8 @@
+## 1.3.0 — branch: main
+
+7ba92ce - Merge remote-tracking branch 'origin/main' (vadim)
+4391b12 - hotfix (vadim)
+
 ## 1.2.0 — branch: main
 
 8bc53d8 - feature (vadim)
