@@ -1,3 +1,7 @@
+## 1.5.2 — branch: main
+
+b1407e2 - hotfix Вадим (vadim)
+
 ## 1.5.1 — branch: main
 
 4449fbf - hotfix мфв (vadim)
