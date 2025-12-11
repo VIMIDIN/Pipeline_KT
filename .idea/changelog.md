@@ -1,3 +1,8 @@
+## 1.5.0 — branch: main
+
+7eff518 - feature (vadim)
+e878344 - feature пер (vadim)
+
 ## 1.4.0 — branch: main
 
 df85e43 - Merge remote-tracking branch 'origin/main' (vadim)
